@@ -1,0 +1,16 @@
+{
+  "name": "messagehub-platform",
+  "version": "1.0.0",
+  "description": "Distributed Multi-Channel Messaging Orchestration Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["microservices", "kafka", "rabbitmq", "distributed-systems"],
+  "author": "Neha Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
